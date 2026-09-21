@@ -12,11 +12,13 @@ Currently building trading-infra systems at **ViewTrade** (Gift City). Previousl
 
 ## Featured work
 
-<!-- Update these links once the flagship portfolio repos are live -->
-- Coming soon: live order-book / market-data feed
-- Coming soon: mini matching engine
-- [recruiter-backend](https://github.com/vikaspal1704/recruiter-backend) — API work in progress
-- [Social-Media-performance-analysis](https://github.com/vikaspal1704/Social-Media-performance-analysis) — Langflow + GPT + Astra DB pipeline
+Flagship repos are **docs-first** (PRD / TRD / architecture / agent briefs) so implementation is unambiguous:
+
+- [mini-matching-engine](https://github.com/vikaspal1704/mini-matching-engine) — limit-order matching, price-time priority
+- [live-orderbook-feed](https://github.com/vikaspal1704/live-orderbook-feed) — real-time L2 book over WebSockets (snapshot + deltas)
+- [recruiter-backend](https://github.com/vikaspal1704/recruiter-backend) — FastAPI talent/resume search API (polish in progress)
+
+Also: [Social-Media-performance-analysis](https://github.com/vikaspal1704/Social-Media-performance-analysis) — Langflow + GPT + Astra DB pipeline
 
 ## Stack
 
