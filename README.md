@@ -1,34 +1,29 @@
 # Hi, I'm Vikas Pal
 
-Software engineer focused on **fintech and real-time trading infrastructure** — WebSockets, distributed systems, and low-latency services. Based in India, open to remote roles with US / EU / Singapore employers.
+**Forward Deployed Engineer | Applied AI × Fintech.** I build real-time trading systems and production LLM platforms. Based in Ahmedabad, India.
 
-Currently building trading-infra systems at **ViewTrade** (Gift City). Previously at Zeus Learning.
+**Portfolio: [vikaspal.is-a.dev](https://vikaspal.is-a.dev/)** runs my Rust exchange engine and an on-device LLM right in your browser. Ask it anything about my work.
 
-## What I work on
-
-- Real-time market data & WebSocket fan-out
-- Backend services in Python / TypeScript
-- Distributed systems, APIs, and reliable delivery under load
+Currently a Software Development Engineer I at **ViewTrade** (GIFT City), where I created and lead the front-end platform that merged 7 frontends into one, serving 300+ advisory and retail clients. Previously at Zeus Learning (production LLM platforms, .NET and Python on AWS).
 
 ## Featured work
 
-Flagship repos are **docs-first** (PRD / TRD / architecture / agent briefs) so implementation is unambiguous:
+- [Arena](https://github.com/vikaspal1704/arena): Rust matching engine compiled to WebAssembly, ~2M orders/s, deterministic replay, L2 feed with gap recovery. [Live demo](https://vikaspal1704.github.io/arena/)
+- [F&O Wrapped](https://github.com/vikaspal1704/fo-wrapped): your Indian F&O trading year, Wrapped, computed fully in the browser. [Live demo](https://vikaspal1704.github.io/fo-wrapped/)
+- [FIX Protocol Lab](https://github.com/vikaspal1704/fix-protocol-lab): FIX codec and TCP session engine with a live gap-recovery visualiser. [Live demo](https://fix-protocol-lab.onrender.com/?scenario=gap-recovery)
+- [mini-matching-engine](https://github.com/vikaspal1704/mini-matching-engine): reference limit-order book with price-time priority, in Python. [Live demo](https://vikaspal1704.github.io/mini-matching-engine/)
+- [live-orderbook-feed](https://github.com/vikaspal1704/live-orderbook-feed): real-time L2 book over WebSockets (snapshot + deltas)
+- [recruiter-backend](https://github.com/vikaspal1704/recruiter-backend): FastAPI service for LLM resume parsing and semantic candidate search
 
-- [mini-matching-engine](https://github.com/vikaspal1704/mini-matching-engine) — limit-order matching, price-time priority
-- [live-orderbook-feed](https://github.com/vikaspal1704/live-orderbook-feed) — real-time L2 book over WebSockets (snapshot + deltas)
-- [recruiter-backend](https://github.com/vikaspal1704/recruiter-backend) — FastAPI talent/resume search API (polish in progress)
-
-Also: [Social-Media-performance-analysis](https://github.com/vikaspal1704/Social-Media-performance-analysis) — Langflow + GPT + Astra DB pipeline
+Also: [Hisaab](https://github.com/vikaspal1704/hisaab) (split bills with friends) and [Social-Media-performance-analysis](https://github.com/vikaspal1704/Social-Media-performance-analysis) (LLM analytics pipeline).
 
 ## Stack
 
-`Python` · `TypeScript` · `WebSockets` · `FastAPI` · `Redis` · `PostgreSQL` · `Docker`
+`Rust` · `TypeScript` · `Python` · `.NET (C#)` · `React` · `FastAPI` · `WebSockets` · `WebAssembly` · `AWS` · `PostgreSQL` · `Docker`
 
 ## Links
 
+- Portfolio: [vikaspal.is-a.dev](https://vikaspal.is-a.dev/)
 - LinkedIn: [linkedin.com/in/vikaspal1704](https://www.linkedin.com/in/vikaspal1704/)
+- Book a call: [calendly.com/palv499/30min](https://calendly.com/palv499/30min)
 - Email: palv499@gmail.com
-
----
-
-Open to remote software engineering roles (hard-currency). Happy to talk about trading systems, real-time backends, or interesting infra problems.
