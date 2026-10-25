@@ -25,5 +25,5 @@ Also: [Hisaab](https://github.com/vikaspal1704/hisaab) (split bills with friends
 
 - Portfolio: [vikaspal.is-a.dev](https://vikaspal.is-a.dev/)
 - LinkedIn: [linkedin.com/in/vikaspal1704](https://www.linkedin.com/in/vikaspal1704/)
-- Book a call: [calendly.com/palv499/30min](https://calendly.com/palv499/30min)
+- Book a call: [cal.com/vikas-pal-2mz8du](https://cal.com/vikas-pal-2mz8du)
 - Email: palv499@gmail.com
